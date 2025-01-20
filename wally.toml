@@ -7,4 +7,7 @@ realm = "shared"
 license = "MIT"
 entry = "component.luau"
 
+[registry]
+url = "https://wally.run"
+
 [dependencies]
