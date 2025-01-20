@@ -3,11 +3,9 @@ name = "xenro45/component"
 version = "0.1.0"
 description = "A lightweight ECS library"
 repository = "https://github.com/xenro45/Component"
+registry = "https://github.com/xenro45/Component"
 realm = "shared"
 license = "MIT"
 entry = "component.luau"
-
-[registry]
-url = "https://wally.run"
 
 [dependencies]
